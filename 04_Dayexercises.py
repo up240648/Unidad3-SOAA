@@ -145,7 +145,7 @@ print("Name\tAge\tCountry\tCity\nAsabeneh\t250\tFinland\tHelsinki")
 
 radio = 10
 area = 3.14 * radio ** 2
-print(f"The area of a circle with radius {radio} is {area} meters square.")  # Salida: 'The area of a circle with radius 10 is 314 meters square.'
+print(f"The area of a circle with radius {radio} is {area} meters square.") 
 
 # Ejercicio 32
 
@@ -156,6 +156,4 @@ print(f"8 / 6 = {8 / 6:.2f}")
 print(f"8 % 6 = {8 % 6}")
 print(f"8 // 6 = {8 // 6}")
 print(f"8 ** 6 = {8 ** 6}")
-
-
 
