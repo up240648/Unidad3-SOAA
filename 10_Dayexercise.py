@@ -265,7 +265,7 @@ import countries
 countries_with_land = [country for country in countries if 'land' in country.lower()]
 print(countries_with_land)
 
-#2.
+# Ejercicio 2
 fruits = ['banana', 'orange', 'mango', 'lemon']
 reversed_fruits = []
 for fruit in fruits:
@@ -273,7 +273,7 @@ for fruit in fruits:
 
 print(reversed_fruits)
 
-#3.
+# Ejercicio 3
 from collections import Counter
 import countries
 #i.
