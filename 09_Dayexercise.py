@@ -116,5 +116,5 @@ if 'skills' in person:
         print("Unknown title")
 
 # Ejercicio 5
-if person['is_married'] and person['country'] == 'Finland':
+if person['is_married'] and person['country'] == 'Mexico':
     print(f"{person['first_name']} {person['last_name']} lives in {person['country']}. He is married.")
